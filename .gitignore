@@ -4,3 +4,11 @@ target
 # eclipse
 .classpath
 .settings
+.project
+
+# idea
+.idea
+*.iml
+
+# jenkins
+work
